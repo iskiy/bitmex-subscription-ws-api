@@ -1,0 +1,1 @@
+**Websocket API for subscription on BitMEX symbols**
